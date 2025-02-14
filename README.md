@@ -4,6 +4,12 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=IsraelBryan&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+
+
+
+
+
+
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
