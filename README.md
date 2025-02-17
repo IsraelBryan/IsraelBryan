@@ -5,8 +5,8 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelBryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false&height="150")](https://github.com/anuraghazra/github-readme-stats)
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBryan&layout=compact&theme=ambient_gradient)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBryan&layout=compact&theme=ambient_gradient)
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif"  />
