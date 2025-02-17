@@ -39,13 +39,6 @@
 </div>
 
 ###
----
-<br clear="both">
-
-![github-user-contribution](https://github.com/user-attachments/assets/133e8dfe-8533-492a-bd68-4fb56fd9f212)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-###
-
 --- 
 
 ### 🏆 GitHub Profile Trophy
