@@ -20,7 +20,7 @@ Spring Boot | Angular | PostgreSQL
 
 ## About me
 - 📄 Degree in Systems Development
-- 🪪 Freelancer 9 months
+- 🪪 Freelancer 10 months
 - 📝 Portfolio: em andamento
 - ✉️ email: israelbryandias19@gmail.com
 
