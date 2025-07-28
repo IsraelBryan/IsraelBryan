@@ -21,7 +21,7 @@ Spring Boot | Angular | PostgreSQL
 ## About me
 - 📄 Degree in Systems Development
 - 🪪 Freelancer 10 months
-- 📝 Portfolio: em andamento
+- 📝 Portfolio: https://portfolio-three-plum-0ncj73jkjt.vercel.app/
 - ✉️ email: israelbryandias19@gmail.com
 
 
