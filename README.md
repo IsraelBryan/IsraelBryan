@@ -6,7 +6,7 @@
 
 <div align="justify">
   
-  Hello! My name is Israel Bryan, a full-stack developer working as a **freelancer for 9 months**. I've already completed several projects for clients involving large numbers of users and simultaneous interactivity.
+  Hello! My name is Israel Bryan, a full-stack developer working as a **freelancer for 10 months**. I've already completed several projects for clients involving large numbers of users and simultaneous interactivity.
 
 
 <h4>📚 Learning</h4>
