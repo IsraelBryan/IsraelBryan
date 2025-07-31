@@ -29,7 +29,7 @@ Spring Boot | Angular | PostgreSQL
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,discordjs,ts,bots,discord,js,bash,cs,tailwind,figma,bootstrap,linux,postman,mysql,mongodb,sqlite,kali,nodejs,react,windows,mint,css,html,express,unity" />
+    <img src="https://skillicons.dev/icons?i=git,docker,discordjs,ts,bots,discord,js,bash,cs,tailwind,figma,bootstrap,linux,postman,mysql,mongodb,sqlite,kali,nodejs,react,windows,mint,css,html,express,unity,blender" />
   </a>
 </p>
 
